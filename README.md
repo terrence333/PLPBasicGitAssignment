@@ -47,6 +47,6 @@ Push to GitHub:
 Push the committed changes to GitHub:
 bash
 git push -u origin main
-Task 5: Verification
-16. Verify on GitHub:
+16. Task 5: Verification
+17. Verify on GitHub:
 Visit your repository on GitHub and check that the hello.txt file is present and that your commit message is visible.
